@@ -1,2 +1,2 @@
 # Rangoli
-Rangoli in Dipawali
+<h1>Rangoli in Dipawali</h1>
