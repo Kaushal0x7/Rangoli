@@ -6,8 +6,7 @@
 git clone https://github.com/Kaushal0x7/Rangoli
 ```
 
-### Usage 
-- Fun 
+### Usage  
 - Python practice
 - Decoration with code
 
